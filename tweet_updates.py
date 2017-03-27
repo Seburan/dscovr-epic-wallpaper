@@ -8,9 +8,9 @@ import tempfile
 import logging
 import pickle
 import tweepy
-from geonames import GeoNamesGeocoder
-from epic import EPIC
-from processing import process_image
+from .geonames import GeoNamesGeocoder
+from .epic import EPIC
+from .processing import process_image
 
 
 def suffix(d):
