@@ -79,3 +79,6 @@ n/a
 
 # References
 Project forked from <https://github.com/russss/dscovr-epic>
+
+Note :
+I do not support the tweet functionality inherited from the project above but dit not remove it if you want to use it or fork it.

@@ -1,4 +1,5 @@
 # coding=utf-8
+# Note : I do not support the tweet functionality inherited from the project <russss/dscovr-epic> but dit not remove it if you want to use it or fork it.
 from __future__ import division, absolute_import, print_function, unicode_literals
 from time import sleep
 from datetime import datetime, timedelta
